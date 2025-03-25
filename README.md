@@ -51,12 +51,6 @@ Zunächst habe ich versucht, das Modell mit dem YOLO-Ansatz (You Only Look Once)
 
 Dazu habe ich einen Code geschrieben, der es ermöglicht, ein Bild hochzuladen und die Emotion darauf zu erkennen. Sobald ich ein Bild auswähle, verarbeitet das Programm es und zeigt die Vorhersage im Fenster an. Ich habe dafür Tkinter verwendet, um eine einfache Benutzeroberfläche zu erstellen. Ich habe es zuerst mit einer Webcam und Live Emotions Bestimmung versucht, was aber leider nicht funktioniert hat.
 
-![image.png](attachment:007f93b6-554e-4ef8-9729-3b16d7440b9d:image.png)
-
-![me.jpg](attachment:7756a2ed-407f-438b-8bdb-f9309da7f512:me.jpg)
-
-![image.png](attachment:39e3ede3-337f-42e2-adb4-28a07aafa561:image.png)
-
 ## **Fazit**
 
 Es ist wichtig, den Datensatz korrekt vorzubereiten, geeignete Modelle zu wählen und die Hyperparameter anzupassen, um die Leistung zu steigern. Leider gab es Probleme bei der Modelloptimierung, was sich auf das Ergebnis auswirkte. Dennoch bietet der Ansatz eine solide Grundlage für emotionale Bildklassifikation und kann mit weiteren Anpassungen und Verbesserungen verbessert werden.
